@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "meteo-react-native",
+    "slug": "meteo-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "meteo-react-native"
+}

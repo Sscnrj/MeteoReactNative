@@ -1,3 +1,8 @@
-# MeteoReactNative
+# meteo-react-native
+A project using react native
 
-Impossible de valider un format de date correct, l'application retourne toujours NaN-NaN-NaN
+How to use:
+
+Run the command : npm install
+
+Run the command: expo start --web
